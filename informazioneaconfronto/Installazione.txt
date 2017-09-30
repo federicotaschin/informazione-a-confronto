@@ -1,0 +1,19 @@
+Per installare il progetto seguire la procedura:
+1- inizializzare un server sql ed http
+
+2- installare nel server http il servizio phpmyadmin
+
+3- creare un database chiamato "rassegna_stampa"
+
+4- importare il file rassegna_stampa.sql tramite phpmyadmin nel database rassegna_stampa
+
+5- copiare i file all'interno della cartella "sito" nella main directory del server http
+
+6- all'interno del progetto JAVA modificare i relativi valori nella classe variables.Attributes con i dati
+   di accesso al server sql e la directory del sito 
+
+6- avviare il programma java 
+
+IL PROGRAMMA ESSENDO IN UNA FASE "SPERIMENTALE" NON COMPRENDE ANCORA TUTTE LE ISTRUZIONI NECESSARIE AFFINCHE'
+RECUPERI OGNI NOTIZIA, QUINI ALCUNE PAGINE POSSONO NON VENIRE PARSATE CORRETTAMENTE. IL PROGRAMMA GENERA ECCEZIONI 
+MA CONTINUA A FUNZIONARE
