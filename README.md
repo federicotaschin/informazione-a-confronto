@@ -8,4 +8,6 @@ This is my final project in high school. It is composed of:
 5. **Java parser**: Follows instruction from the interpreter and parses the data from HTML pages
 
 ## This is a project that I did in high school when I was 18. The code is horrible and lacks of documentation.
-Unfortunately I don't have the time to try to clean it. I still keep it to remind me "where do I come from"
+Unfortunately I don't have the time to try to clean it. I still keep it to remind me "where do I come from". 
+
+Oh, it's mostly in Italian
